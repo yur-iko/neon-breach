@@ -1,0 +1,24 @@
+﻿# Playable package and archives
+/_internal/
+/licenses/
+/NeonBreach.exe
+/*.zip
+/qa/
+/PACKAGE-SIZES.json
+/SHA256SUMS.txt
+
+# Python development files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+
+# Local game saves
+saves/
+qa-saves/
+qa-output/
+run.json
+settings.json
+error.log
